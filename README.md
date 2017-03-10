@@ -1,6 +1,6 @@
 # BioJupyter
 
-Experiments with Jupyter and Biodata
+Experiments with Jupyter and Biodata APIs
 
 ### Setup
 
